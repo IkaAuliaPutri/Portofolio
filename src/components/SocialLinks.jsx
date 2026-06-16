@@ -33,7 +33,7 @@ const socialLinks = [
   {
     name: "YouTube",
     displayName: "Youtube",
-    subText: "@eki zulfar",
+    subText: "@Ika Aulia Putri",
     icon: Youtube,
     url: "https://www.youtube.com/@IkaAuliaPutrii",
     color: "#FF0000",
