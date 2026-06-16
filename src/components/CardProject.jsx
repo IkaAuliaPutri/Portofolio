@@ -4,6 +4,11 @@ import { ExternalLink, ArrowRight } from "lucide-react";
 import { toSlug } from "../utils/slug";
 
 const CardProject = ({ Img, Title, Description, Link: ProjectLink, id }) => {
+  console.log("CardProject Data:");
+  console.log("id =", id);
+  console.log("Title =", Title);
+  console.log("Img =", Img);
+  console.log("Link =", ProjectLink);
   const handleLiveDemo = (e) => {
     if (!ProjectLink) {
       console.log("ProjectLink kosong");
@@ -30,7 +35,7 @@ const CardProject = ({ Img, Title, Description, Link: ProjectLink, id }) => {
             <img
               src={Img}
               alt={Title}
-              className="w-full h-full object-cover aspect-[16/8] transform group-hover:scale-105 transition-transform duration-500"
+              className="w-full h-full object-cover object-center transition-transform duration-500 group-hover:scale-110"
             />
           </div>
 
