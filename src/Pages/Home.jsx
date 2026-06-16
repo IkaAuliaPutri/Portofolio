@@ -140,25 +140,25 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Eki Zulfar Rachman — Frontend Web Developer</title>
-        <meta name="description" content="Website resmi Eki Zulfar Rachman, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
+        <title>Ika Aulia Putri — Software Developer</title>
+        <meta name="description" content="Portfolio resmi Ika Aulia Putri, Software Developer yang berfokus pada pengembangan aplikasi dan solusi digital yang inovatif, fungsional, dan user-friendly." />
      <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://ekizr.com" />
-        <meta property="og:title" content="Eki Zulfar Rachman — Frontend Web Developer" />
-     <meta property="og:description" content="Website resmi dan portofolio Eki Zulfar Rachman, Front-End Web Developer." />
-        <meta property="og:url" content="https://ekizr.com" />
+        <link rel="canonical" href="https://ika-portfolio.vercel.app/" />
+        <meta property="og:title" content="Ika Aulia Putri — Software Developer" />
+     <meta property="og:description" content="Website resmi dan portofolio Ika Aulia Putri, Software Developer." />
+        <meta property="og:url" content="https://ika-portfolio.vercel.app/" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
           {
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "Eki Zulfar Rachman",
-            "jobTitle": "Frontend Developer",
-            "url": "https://ekizr.com",
+            "name": "Ika Aulia Putri",
+            "jobTitle": "Software Developer",
+            "url": "https://ika-portfolio.vercel.app/",
             "sameAs": [
-              "https://github.com/EkiZR",
-              "https://www.linkedin.com/in/ekizr/",
-              "https://www.instagram.com/ekizr_/"
+              "https://github.com/IkaAuliaPutri",
+              "https://www.linkedin.com/in/ika-aulia-putri/",
+              "https://www.instagram.com/kaiirtup_/"
             ]
           }
         `}</script>
